@@ -1,0 +1,2 @@
+# auto-naming-screenshot
+blenderでスクリーンショットのファイル名に自動で番号を付加するアドオン
