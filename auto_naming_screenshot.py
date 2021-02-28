@@ -1,3 +1,8 @@
+# Copyright (c) 2021 赤目ボトル(Akame Bottle).
+#
+# This software is released under the MIT License.
+# http://opensource.org/licenses/mit-license.php
+
 import bpy
 import os
 import glob
